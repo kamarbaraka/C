@@ -3,6 +3,11 @@
 
 using std::string;
 
+/**
+ * a simple c program to contain a person object
+ * @author kamar baraka
+ * @since23/06/2023*/
+
 class Person{
 private:
     string name;
